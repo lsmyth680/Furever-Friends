@@ -1,0 +1,66 @@
+header {
+  background-image: url("https://www.kingcounty.gov/~/media/global/heroimages/raskc/pets-lineup-xlg.ashx");
+  background-size: cover;
+  color: black;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px;
+  text-align: center;
+  position: relative;
+  top: -35px;
+}
+h2 {
+  position: relative;
+  top:30px;
+}
+
+.calender {
+  position: relative;
+  top: 30px;
+}
+
+.footer {
+  background: rgba(0,255,200,1);
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Bree Serif', serif;
+}
+
+.fb {
+  height:20px;
+  width: 20px;
+  padding: 10px 5px 0px 5px;
+}
+
+.twit {
+  height: 20px;
+  width: 20px;
+  padding: 10px 5px 0px 5px;
+}
+
+.insta {
+  height: 20px;
+  width: 20px;
+  padding: 10px 5px 0px 5px;
+}
+
+ul {
+  padding: 10px 10px 10px 10px;
+  background: rgba(0,255,200,1);
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Bree Serif', serif;
+  position: relative;
+  top: 63px;
+}
+
+li {
+  display: inline;
+  padding: 10px 30px 10px 30px;
+}
+
+a {
+  color: black;
+}
