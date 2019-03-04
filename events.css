@@ -21,6 +21,9 @@ h2 {
   top: 30px;
 }
 
+.events-intro {
+  float: right;
+}
 .footer {
   background: rgba(0,255,200,1);
   text-align: center;
